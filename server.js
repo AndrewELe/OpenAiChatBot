@@ -1,7 +1,4 @@
 // import openai stuff
-// const { Configuration, OpenAIApi } = require('openai')
-// const AI = require('openai')
-
 import OpenAI from 'openai';
 
 // import express, create the server (app) and assign a port number
